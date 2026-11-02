@@ -676,3 +676,17 @@ img {
         font-size: 25px;
     }
 }
+
+/* EDUCATION INSTITUTION DETAILS */
+
+.institution-translation {
+    color: #A5B2C5;
+    font-size: 13px;
+    font-style: italic;
+    display: inline-block;
+    margin-top: 4px;
+}
+
+.education-card {
+    height: 100%;
+}
